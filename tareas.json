@@ -1,0 +1,26 @@
+[
+    {
+        "titulo" : "Comprar pan",
+        "estado" : "pendiente"
+    },
+    {
+        "titulo" : "Pagar Edenor",
+        "estado" : "terminado"
+    },
+    {
+        "titulo" : "Completar PG",
+        "estado" : "en progreso"
+    },
+    {
+        "titulo" : "Ir al Mecanico",
+        "estado" : "pendiente"
+    },
+    {
+        "titulo" : "Pasear al Hope",
+        "estado" : "terminado"
+    },
+    {
+        "titulo" : "Componer Pista LoFi",
+        "estado" : "en progreso"
+    }
+]
