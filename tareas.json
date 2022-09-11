@@ -1,26 +1,50 @@
 [
-    {
-        "titulo" : "Comprar pan",
-        "estado" : "pendiente"
-    },
-    {
-        "titulo" : "Pagar Edenor",
-        "estado" : "terminado"
-    },
-    {
-        "titulo" : "Completar PG",
-        "estado" : "en progreso"
-    },
-    {
-        "titulo" : "Ir al Mecanico",
-        "estado" : "pendiente"
-    },
-    {
-        "titulo" : "Pasear al Hope",
-        "estado" : "terminado"
-    },
-    {
-        "titulo" : "Componer Pista LoFi",
-        "estado" : "en progreso"
-    }
+   {
+      "titulo": "comprar pan",
+      "estado": "en progreso"
+   },
+   {
+      "titulo": "pagar edenor",
+      "estado": "terminado"
+   },
+   {
+      "titulo": "completar pg",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "ir al mecanico",
+      "estado": "en progreso"
+   },
+   {
+      "titulo": "pasear al hope",
+      "estado": "terminado"
+   },
+   {
+      "titulo": "componer pista lofi",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "comprar fideos",
+      "estado": "en progreso"
+   },
+   {
+      "titulo": "comprar regalo",
+      "estado": "terminado"
+   },
+   {
+      "titulo": "ir al banco",
+      "estado": "pendiente"
+   },
+   {
+    "titulo": "arreglar el baño",
+    "estado": "en progreso"
+   },
+   {
+    "titulo": "lavar ropa",
+    "estado": "terminado"
+   },
+   {
+      "titulo": "bañar a hope",
+      "estado": "pendiente"
+   }
 ]
